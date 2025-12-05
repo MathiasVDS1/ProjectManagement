@@ -139,7 +139,6 @@ def simulate_lead_times(
 
     return T_samples
 
-
 # ---------- Kosten ----------
 
 def churn_prob(delay: float) -> float:
