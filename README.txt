@@ -1,2 +1,1 @@
-Hoe runnen? run in terminal "streamlit run app.py" 
-Wel eerst de packages downloaden met pip install 
+To run: type streamlit run app_v2.py in the terminal
